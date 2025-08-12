@@ -67,6 +67,8 @@ The processor implements the following instruction formats:
 
 ## 💻 Source Code Structure
 
+| Folder               | Description                     |
+|-------------------------|----------------------|
 | /alu       | ALU implementation                        |
 | /control   | Control unit components                   |
 | /memory    | Memory components                         |
