@@ -69,12 +69,7 @@ The processor implements the following instruction formats:
 
 | Folder               | Description                     |
 |-------------------------|----------------------|
-| /alu       | ALU implementation                        |
-| /control   | Control unit components                   |
-| /memory    | Memory components                         |
-| /pipeline  | Pipeline stage components                 |
-| /utils     | Utility modules (muxes, adders, etc.)     |
-| /tb        | Testbench files                           |
+| /code        | Source code files                           |
 | /docs      | Documentation and diagrams                |
 
 ---
